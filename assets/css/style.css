@@ -1,8 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
 *{
     margin: 0;  
     padding: 0;
     box-sizing: border-box;                                                                                                
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Comfortaa', cursive;
     scroll-behavior: smooth;
 }
 
@@ -18,12 +19,36 @@
 .section-2{
     background: #000;
     width: 100%;
-    height: 40ch;
+    height: 72ch;
+    text-align: center;
+    color: #fff;
 }
-.card{
-    background: url();
-    width: 10ch;
-    height: 10ch;
+.amarelo{
+    color: #F5BD02;
+}
+.grupoDeimagemA{
+    display: flex;
+   
+}
+.show{
+    position: relative;
+    width: 26ch;
+    height: 28ch;
+    color: #fff;
+    margin: 0.5ch;
+    top: 3ch;
+    left: 20ch;
+}
+.show img{
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+.show h3{
+    position: relative;
+    top: 5.5ch;
+    margin: 1.5ch;
+    text-align: justify;
 }
 
 /* ==================== SECTION 2 =============================== */
