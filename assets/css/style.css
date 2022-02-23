@@ -83,7 +83,78 @@
 /* ===================================================================================== */
 
 /* ==================== SECTION 5 =============================== */
-
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&family=Sriracha&display=swap');
+*{
+    margin:0;
+    padding: 0;
+    font-family: 'Comfortaa';
+}
+div#mapa{
+    width: 1360px;
+    height: 494px;
+    background-color: black;
+    background-image: url('../img/h5-map\ 1.png');
+    background-size: cover;
+    text-align: center;
+    line-height: 300px;
+}
+input#texto{
+    width: 497px;
+    height: 48px;
+    border-radius: 40px;
+    background-color: rgba(255, 255, 255, 0.7);
+    text-align: left;
+    box-sizing: border-box; 
+    padding-left:25px ;
+    font-size: 14px;  
+    font-family: 'Comfortaa';
+}
+div.divVector{
+    position:relative ;
+    top: -125px;
+}
+div.divVector > p{
+    color: white;
+    position: relative;
+    top: -260px;
+    font-size: 22px;
+    max-height: 40px;
+}
+footer{
+    width: 1360px;
+    height: 112px;
+    background-color: #F5BD02;
+}
+#logoAdmit{
+    position: relative;
+    top: 14px;
+    left: 150px;
+}
+#txtLogoAdmit{
+    font-size: 20px;
+    position: relative;
+    top: -35px;
+    left: 150px;
+    
+}
+#ano2021{
+    font-size: 12px;
+    position: relative;
+    top: -35px;
+    left: 321px;
+}
+#acessibilidade{
+  font-size: 12px;
+  position: relative;
+  left: 400px; 
+  top: -35px; 
+}
+#acessibilidade > a{
+    padding: 20px;
+    text-decoration: none;
+    color: black;
+}
 
 /* ==================== SECTION 5 =============================== */
 
