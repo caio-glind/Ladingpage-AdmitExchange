@@ -11,7 +11,7 @@
 O projeto ainda está em desenvolvimento, fase inicial, seguindo as respectivas atividades e seus integrantes:
 
 - [ ]  - seção 1 - ('Renato')
-- [ ]  - seção 2 -  ('Caio')
+- [ ]  - seção 2 -  ('Caio  ')
 - [ ]  - seção 3 - ('USER')
 - [ ]  - seção 4 - ('USER')
 - [ ]  - footer 5 - ('USER')
